@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+    background-color: #773d94   ;
+    color: white;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+h1{
+    margin-top: 100px;
+}
+button{
+    border-radius: 12px;
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: rgb(114, 25, 99);
+    border: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+fieldset{
+    border-radius: 12px;
+    background-color: #582770;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 30%;
+    margin-left: 30%;
+    border: rgb(78, 78, 78);
+}
+
+
+input {
+    height: 30px;
+    width: 250px;
+    border-radius: 12px;
+}
+
+input[type="submit"]{
+    height: 30px;
+    width: 260px;
+    border-radius: 12px;
+}
